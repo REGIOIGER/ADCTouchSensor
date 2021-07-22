@@ -1,3 +1,6 @@
+## This version library is not compatible with rogerclarkmelbourne stm32duino library, install the stm32 (stmicroelectronics) from the board manager.
+## Tested on BLUEPILL
+
 ## ADCTouchSensor  
 ADCTouchSensorSTM is a library that allows users to create a capacitive sensor without ANY external hardware.
 It is based on the ideas and code in https://github.com/martin2250/ADCTouch but extended to work on hardware
